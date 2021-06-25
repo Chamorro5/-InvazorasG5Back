@@ -17,9 +17,6 @@
 	   <property name="hibernate.connection.password">b827b26098aa531fc8af312babbf47d26e19d25d99bd8bb676f90e5c61c3137f</property>
 	 
 	   <!-- List of XML Mapping Files -->
-<!-- 	   <mapping resource="usuario.hbm.xml"/>
-	   <mapping resource="planta.hbm.xml"/>
-	   <mapping resource="incidencia.hbm.xml"/>-->
  	   <mapping resource="invazoras.hbm.xml"/>
  
 	</session-factory>
